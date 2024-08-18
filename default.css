@@ -1,0 +1,51 @@
+ 	h1.title {text-align:center}
+	h2.subtitle{text-align:center}
+	div.news {
+		font-size: small;
+		font-size: small;
+		border-style: solid;
+		border: 1px #00f solid;
+	}
+	div.favoritebox {
+		font-size: small;
+		border-style: solid;
+		border: 1px #00f solid;
+	}
+	
+	span.newstitle {
+    		font-weight : bold;
+    		font-size : large;
+   		color : #cc0000;
+  	}
+  	
+  	span.favoritetitle {
+    		font-weight : bold;
+    		font-size : large;
+   		 color : #cc0000;
+  	}
+
+	span.allnews {
+    		font-style : italic;
+    		font-weight : lighter;
+  	}
+  	span.pubdate {
+    		color : #7a7a7a;
+    		font-size : 60%;
+    		font-style : italic;
+  	}
+  	ul.newsboxlist {
+  		margin-left:0px;
+  		padding-left:20px;
+  	}
+  	ul.favoriteboxlist {
+  	  	margin-left:0em;
+  		padding-left:20px;
+  	}
+  	
+  	li.favoriteboxentry
+  	{
+  		padding-bottom: 1em;
+  	}
+
+  	
+  	div.lastupdate {font-size: small; text-align: center;}

@@ -1,0 +1,95 @@
+.mstheme
+{
+	separator-image: url(zerrulea.gif);
+	list-image-1: url(zerbul1a.gif);
+	list-image-2: url(zerbul2a.gif);
+	list-image-3: url(zerbul3a.gif);
+	nav-banner-image: url(zerbana.gif);
+	navbutton-horiz-normal: url(zernavha.gif);
+	navbutton-horiz-hovered: url(zernavhh.gif);
+	navbutton-horiz-pushed: url(zernavhe.gif);
+	navbutton-vert-normal: url(zernavva.gif);
+	navbutton-vert-hovered: url(zernavvh.gif);
+	navbutton-vert-pushed: url(zernavve.gif);
+	navbutton-home-normal: url(zerhoma.gif);
+	navbutton-home-hovered: url(zerhomh.gif);
+	navbutton-home-pushed: url(zerhoma.gif);
+	navbutton-next-normal: url(zernxta.gif);
+	navbutton-next-hovered: url(zernxth.gif);
+	navbutton-next-pushed: url(zernxta.gif);
+	navbutton-prev-normal: url(zerprea.gif);
+	navbutton-prev-hovered: url(zerpreh.gif);
+	navbutton-prev-pushed: url(zerprea.gif);
+	navbutton-up-normal: url(zerupa.gif);
+	navbutton-up-hovered: url(zeruph.gif);
+	navbutton-up-pushed: url(zerupa.gif);
+}
+.mstheme-bannertxt
+{
+	font-family: Arial, Arial, Helvetica;
+	color: rgb(255, 255, 255);
+	font-size: 6;
+	font-style: normal;
+	font-weight: bold;
+	vertical-align: bottom;
+}
+.mstheme-horiz-navtxt
+{
+	font-family: Arial, Arial, Helvetica;
+	color: rgb(255, 255, 255);
+	font-size: 2;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-vert-navtxt
+{
+	font-family: Arial, Arial, Helvetica;
+	color: rgb(255, 255, 255);
+	font-size: 2;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxthome
+{
+	font-family: Arial, Arial, Helvetica;
+	color: rgb(255, 255, 255);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxtnext
+{
+	font-family: Arial, Arial, Helvetica;
+	color: rgb(255, 255, 255);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxtprev
+{
+	font-family: Arial, Arial, Helvetica;
+	color: rgb(255, 255, 255);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxtup
+{
+	font-family: Arial, Arial, Helvetica;
+	color: rgb(255, 255, 255);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+ul
+{
+	list-style-image: url(zerbul1a.gif);
+}
+ul ul
+{
+	list-style-image: url(zerbul2a.gif);
+}
+ul ul ul
+{
+	list-style-image: url(zerbul3a.gif);
+}

@@ -1,0 +1,10 @@
+[info]
+refcount=4
+version=1,02
+readonly=0
+codepage=65001
+format=2
+title=GOLUBOI_FON
+
+[titles]
+1033=GOLUBOI_FON
